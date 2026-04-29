@@ -1,0 +1,11 @@
+{
+  "system_settings": {
+    "error": "TypeError: fetch failed"
+  },
+  "user_progress": {
+    "error": "TypeError: fetch failed"
+  },
+  "knowledge_base": {
+    "error": "TypeError: fetch failed"
+  }
+}
